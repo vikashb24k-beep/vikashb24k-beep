@@ -255,7 +255,7 @@ Working on practical ideas around AI, ML and Generative AI.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashb24k-beep&bg_color=0d1117&color=00d9ff&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?vikashb24k-beep&bg_color=0d1117&color=00d9ff&line=7c3aed&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
