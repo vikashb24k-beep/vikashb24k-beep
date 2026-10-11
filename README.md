@@ -111,7 +111,6 @@ A full-stack accommodation platform built to understand real-world web applicati
 
 **🔥 Features**
 
-* <a href="https://trekstaybnb.onrender.com/listings">🌐 Visit App</a>
 * 🔐 User authentication
 * 👤 Authorization
 * 🏡 Listing management
@@ -127,6 +126,10 @@ A full-stack accommodation platform built to understand real-world web applicati
 `Node.js` `Express.js` `MongoDB`
 
 `EJS` `Passport.js` `Cloudinary`
+
+**🌐 Links**
+
+ <a href="https://trekstaybnb.onrender.com/listings">Visit App</a>
 
 </td>
 
@@ -159,8 +162,9 @@ A MERN-stack fintech platform inspired by modern trading applications, featuring
 
 **🌐 Links**
 
-- [Live Demo](LIVE_APP_URL)
-- [GitHub Repository](GITHUB_REPOSITORY_URL](https://github.com/vikashb24k-beep/v-finorbital)
+ <a href="https://trekstaybnb.onrender.com/listings">Visit App</a>
+  <a href="https://github.com/vikashb24k-beep/v-finorbital">Visit GitHub Repo</a>
+
 
 </td>
 
