@@ -132,17 +132,35 @@ A full-stack accommodation platform built to understand real-world web applicati
 
 <td width="50%" valign="top">
 
-## 👁️ Computer Vision
+## 🚀 V-FinOrbital
 
-### Face Analysis & AI
+### Full-Stack Stock Trading Platform
 
-Exploring practical applications of computer vision and AI.
+A MERN-stack fintech platform inspired by modern trading applications, featuring stock market visualization, virtual trading, watchlists, and portfolio management.
 
-**Stack**
+**🔥 Features**
 
-`Python` `OpenCV`
+- 📊 Interactive market dashboard
+- 🔐 Secure user authentication
+- 📈 Stock search and market charts
+- 💹 Virtual buy/sell trading
+- ⭐ Custom stock watchlists
+- 💼 Portfolio and P&L tracking
+- 📋 Order history and management
+- 💾 MongoDB database integration
+- 🔒 Session management
+- 🚀 Production deployment
 
-`InsightFace` `ONNX Runtime`
+**🛠️ Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB`
+
+`Tailwind CSS` `Redux Toolkit` `Socket.IO`
+
+**🌐 Links**
+
+- [Live Demo](LIVE_APP_URL)
+- [GitHub Repository](GITHUB_REPOSITORY_URL](https://github.com/vikashb24k-beep/v-finorbital)
 
 </td>
 
