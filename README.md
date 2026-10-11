@@ -162,7 +162,7 @@ A MERN-stack fintech platform inspired by modern trading applications, featuring
 
 **🌐 Links**
 
- <a href="https://trekstaybnb.onrender.com/listings">Visit App</a>
+ <a href="https://trekstaybnb.onrender.com/listings">Visit App</a> <br>
   <a href="https://github.com/vikashb24k-beep/v-finorbital">Visit GitHub Repo</a>
 
 
