@@ -105,7 +105,7 @@ mindset: "Learn • Build • Debug • Improve"
 
 ## 🏠 TrekStay
 
-### Full-Stack Airbnb-Style Platform
+### Airbnb-Style Platform
 
 A full-stack accommodation platform built to understand real-world web application architecture.
 
@@ -129,7 +129,8 @@ A full-stack accommodation platform built to understand real-world web applicati
 
 **🌐 Links**
 
- <a href="https://trekstaybnb.onrender.com/listings">Visit App</a>
+ <a href="https://trekstaybnb.onrender.com/listings">Visit App</a> <br
+  <a href="https://github.com/vikashb24k-beep/TrekStayBNB">Visit GitHub Repo</a>
 
 </td>
 
@@ -184,6 +185,12 @@ On different problems .
 
 `Python` `Pandas` `matplotlib`
 `seaborn` `scikit-learn`
+
+
+**🌐 Links**
+
+ <a href="#">Visit App</a> <br>
+  <a href="https://github.com/vikashb24k-beep/machine-learning-projects">Visit GitHub Repo</a>
 
 </td>
 
