@@ -129,7 +129,7 @@ A full-stack accommodation platform built to understand real-world web applicati
 
 **🌐 Links**
 
- <a href="https://trekstaybnb.onrender.com/listings">Visit App</a> <br
+ <a href="https://trekstaybnb.onrender.com/listings">Visit App</a> <br>
   <a href="https://github.com/vikashb24k-beep/TrekStayBNB">Visit GitHub Repo</a>
 
 </td>
