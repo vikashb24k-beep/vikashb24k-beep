@@ -44,11 +44,11 @@ education: Computer Science Engineering
 institute: IIIT Dharwad
 
 focus:
-  - Data Structures & Algorithms
+  - Data Structures & Algorithms in Java
   - Full-Stack Development
-  - Backend Engineering
   - Artificial Intelligence
   - Machine Learning
+  - Deep Learning
   - Generative AI
   - Linux & Development Tools
 
@@ -158,7 +158,7 @@ A MERN-stack fintech platform inspired by modern trading applications, featuring
 
 `React.js` `Node.js` `Express.js` `MongoDB`
 
-`Tailwind CSS` `Redux Toolkit` `Socket.IO`
+ `Redux Toolkit` `Socket.IO` `Html` `CSS` `Java Script`
 
 **🌐 Links**
 
@@ -174,39 +174,51 @@ A MERN-stack fintech platform inspired by modern trading applications, featuring
 
 <td width="50%" valign="top">
 
-## 📅 Automated Scheduler
+## 🤖 Machine Learning Projects
 
-### Timetable & Examination Scheduling
+### Decision_Tree , Random_forest , svm
 
-An automated scheduling system for academic timetable and examination management.
+On different problems .
 
 **Stack**
 
-`Python` `Pandas` `OR-Tools`
-
-`OpenPyXL` `Excel`
+`Python` `Pandas` `matplotlib`
+`seaborn` `scikit-learn`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🤖 AI / Generative AI
+## 🤖 AI Attendance System
 
-### Exploring Intelligent Applications
+### AI-Powered Smart Attendance Management System
 
-Working on practical ideas around AI, ML and Generative AI.
+An AI-powered attendance management system designed to automate attendance tracking using facial recognition, reducing manual effort and improving accuracy.
 
-**Areas**
+**🔥 Features**
 
-* 🧠 Machine Learning
-* 🤖 Generative AI
-* 🗣️ LLM applications
+* 🤖 AI-powered facial recognition
+* 📸 Real-time face detection
+* 👤 Automated student identification
+* ✅ Automatic attendance marking
+* 🕒 Date and time-based attendance records
+* 📊 Attendance reports and analytics
+* 💾 Database integration
+* 🔐 Secure authentication and access control
+* 📁 Attendance history and record management
+* 🚀 Easy-to-use interface
 
-**Focus**
+**Stack**
 
-`Python` `AI/ML`
+`Python` `OpenCV` `Face Recognition`
 
-`LLMs` `Computer Vision`
+`Flask` `MongoDB` `HTML` `CSS` `JavaScript`
+
+**🌐 Links**
+
+<a href="https://github.com/vikashb24k-beep/AI_ATTENDENCE_SYSTEM">GitHub Repository</a>
+
+<a href="#">Live Demo</a>
 
 </td>
 
